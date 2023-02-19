@@ -1,6 +1,8 @@
 # Изучение глобального изменения уровня CpG метилирования ДНК
 Зиёев Рустам группа 3
 
+Ссылка на колаб: https://colab.research.google.com/drive/1xKL11kpa4LnamuwMWWmMGn8AVSE-0OE-?usp=sharing
+
 ### Итоговые показатели
 
 BS-Seq | ch11: 11347700-11367700 | ch11: 40185800-40195800 | deduplication 
